@@ -7,3 +7,8 @@ git config --global user.name "Shanil"
 git commit -m "first commit"
 git remote add origin https://github.com/kshanil90/dotfiles.git
 git push -u origin master
+
+in most cases only the following will be needed
+git add git_push_steps.txt
+git commit -m "first commit of git push steps"
+git push -u origin master
