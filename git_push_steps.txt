@@ -12,3 +12,8 @@ in most cases only the following will be needed
 git add git_push_steps.txt
 git commit -m "first commit of git push steps"
 git push -u origin master
+
+Committing is done as below
+
+git commit -m "first commit of git push steps" git_push_steps.txt
+git push -u origin master
